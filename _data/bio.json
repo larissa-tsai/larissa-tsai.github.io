@@ -36,16 +36,20 @@
     {
       "name": "software engineering",
       "keywords": [
-
       ]
     },
-    {
-      "name": "art/painting",
+     {
+      "name": "Digital Design",
       "keywords": [
       ]
     },
     {
-      "name": "cybersecurity",
+      "name": "Art/Painting",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Cybersecurity",
       "keywords": [
       ]
     }
@@ -72,6 +76,7 @@
         "g++",
         "TI LaunchPad",
         "Putty",
+        "SecureCRT",
         "UH UNIX"
       ]
     }
@@ -93,54 +98,62 @@
       "company": "Office of Naval Research - Cybersecurity",
       "position": "Intern",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2020-09-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "UH Manoa ROTC Cyber Security Training Program for cadets that are in computer related majors to promote cyber security training",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "computer security",
+        "network security", 
+        "drone security"
       ]
     },
+    {
+      "company": "Network Engineer",
+      "position": "Temporary Hire",
+      "website": "",
+      "startDate": "2021-10-01",
+      "endDate": "2021-12-17",
+      "summary": "Maintain connectivity of networks and maintaining the network infrastructure of the organization.",
+      "highlights": [
+        "configuring CLI Cisco routers"
+      ]
+    }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Relay for Life",
+      "website": "",
+      "position": "Event Coordinator",
+      "startDate": "2014-01-10",
+      "endDate": "2015-01-13",
+      "summary": "Coordinated the event with a group of people. The coordinator for our island moved away, but we still wanted to host the charity event. I planned it at our town's pulic middle school and hosted the event with contests and incentives to raise awareness and donations.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        ""
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "references": [
