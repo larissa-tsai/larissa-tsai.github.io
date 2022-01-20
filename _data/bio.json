@@ -53,32 +53,33 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "Beginner/Intermediate",
       "keywords": [
         "C",
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python"
       ]
     },
     {
       "name": "Toolsets/OS",
-      "level": "",
+      "level": "Beginner",
       "keywords": [
-        "MacOS",
+        "Windows",
         "Ubuntu",
         "Git/GitHub",
         "g++",
-        "TI LaunchPad"
+        "TI LaunchPad",
+        "Putty",
+        "UH UNIX"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2024)",
       "studyType": "B.S.",
       "startDate": "2020-01-13",
       "endDate": "Present",
@@ -89,8 +90,8 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Office of Naval Research - Cybersecurity",
+      "position": "Intern",
       "website": "",
       "startDate": "2015-08-01",
       "endDate": "Present",
