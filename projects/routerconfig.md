@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/config.jpg
 title: CLI Cisco Router
 permalink: projects/routerconfig
 # All dates must be YYYY-MM-DD format!
