@@ -8,7 +8,7 @@ labels:
   - Software Engineering
 ---
 
-<img class="ui medium spaced image" src="https://wilsonallen.com/wp-content/uploads/2020/07/Goldi.jpg">
+<img class="ui large spaced image" src="https://wilsonallen.com/wp-content/uploads/2020/07/Goldi.jpg">
 
 > *She tasted the large bowl and said, “This porridge is too salty!” She tasted the medium bowl and said, “This porridge is too sweet!” She tasted the small bowl and said, “This is porridge is just right.” - Goldilocks and the Three Bears*
 
