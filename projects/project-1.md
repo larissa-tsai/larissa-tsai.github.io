@@ -13,9 +13,9 @@ labels:
 summary: Me and my partner tracked a few native plants on Kaua'i in a Geographical Information Systems final project and analyzed data on location, climate, growth and population, while also accounting for risk factors like invasive species. 
 ---
 
-<div class="ui medium images">
+<div class="ui large images">
   <img class="ui image" src="../images/ecology.png">
-  <img class="ui image" src="../images/ahupua'a.jpg">
+  <img class="ui image" src="../images/ahupua'a.png">
 
 </div>
 
