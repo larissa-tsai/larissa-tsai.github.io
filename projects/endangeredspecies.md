@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/GIS.png
 title: GIS analysis of Endangered Plants on Kaua'i
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
