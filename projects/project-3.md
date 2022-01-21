@@ -2,60 +2,25 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+title: CLI Cisco Router
+permalink: projects/routerconfig
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2020-11-04
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - SecureCRT
+  - Putty
+summary: A month long project I did at my internship working as a Network Engineer, I learned to configure CISCO 4200 Routers 
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui image" src="https://www.cisco.com/c/dam/en/us/td/i/300001-400000/390001-400000/390001-391000/390474.eps/_jcr_content/renditions/390474.jpg">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+I worked as a temporary hire as a Network Engineer at American Savings bank at their campus center in downtown Honolulu. While I was there, a really cool and exciting project I got to learn/work on was configuring CISCO 4200 Routers that would actually be sent off to the American Saving Branches between the islands on Hawaii. In total I worked to configure around four large routers. 
 
-To give you a flavor of the game, here is an excerpt from one run:
+I used remote desk connections and applications like SecureCRT and putty. As well as the components to configuration, and how to ping the router network IP address for availability and use, and the ATM ip network and what each section does. Not only did I learn how to configure it online on these applications, I also learned how to physically set up the device and the hardware components, and how to emplace a wireless LTE chip that would tunnel to the LTE router site (making it wireless). 
 
-<hr>
+In the learning experience, because these are actual routers that are used in the branch, and a focus in network engineering is also the security of our network devices, I accidentally, in the configuration wrote the encrypted password, but forgot to write in the component in the configuration that would accept the encrypted password! So we were basically locked out from access into the router. In debugging the configuration process it set the team back in production for another day, and I had to code a reset.
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
 
 Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
