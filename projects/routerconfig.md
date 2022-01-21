@@ -12,7 +12,7 @@ labels:
 summary: A month long project I did at my internship working as a Network Engineer, I learned to configure CISCO 4200 Routers 
 ---
 
-<img class="ui large floated image" src="../images/router.png">
+<img class="ui large floated image" src="../images/router.jpg">
 <img class="ui image" src="https://www.cisco.com/c/dam/en/us/td/i/300001-400000/390001-400000/390001-391000/390474.eps/_jcr_content/renditions/390474.jpg">
 
 I worked as a temporary hire as a Network Engineer at American Savings bank at their campus center in downtown Honolulu. While I was there, a really cool and exciting project I got to learn/work on was configuring CISCO 4200 Routers that would actually be sent off to the American Saving Branches between the islands on Hawaii. In total I worked to configure around four large routers. 
