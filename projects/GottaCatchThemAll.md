@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/b8484800-1022-11ec-bf9f-0f3d3de818bc.cf.jpg
 title: Got to Catch them All! Pokemon!
 permalink: 
 # All dates must be YYYY-MM-DD format!
@@ -13,7 +13,10 @@ labels:
 summary: A graphical user interface to display a pokemon game on a pokedex.
 ---
 
-<img class="ui large floated image" src="../images/vacay-home-page.png">
+<img class="ui large floated image" src="../images/Screenshot_20171128_151713.png">
+
+<img class="ui large floated image" src="../images/pokedex.png">
+
 
 The Pokedex program is a GUI Pokemon game that I helped create as a team project for ICS 211, Fall 2020. This project was a comprehensive learning checkpoint that utilized all the skills that we learned that semester with Java and applications. We were allowed to be creative and design the application as we wanted.
 
