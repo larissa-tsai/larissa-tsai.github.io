@@ -10,7 +10,7 @@ labels:
   - ArcGIS
   - Research
   - Nature
-summary: Tracking a few native plants on Kaua'i in a Geographical Information Systems 
+summary: Using Geographical Information Systems, tracked endangered plant species on the island of Kauai
 ---
 
 <div class="ui extra large images">
