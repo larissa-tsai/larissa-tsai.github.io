@@ -25,7 +25,7 @@ With Hawaii's history of colonization, the plants native to the island also face
 
 To narrow down the scope of our project, we decided to focus on two main native and endangered plants: Hibiscus Clayii, and the Polyscias Racemosa. 
 
-Our research relied on maps from Kaua'i's Critical Habitat and the Hawaii Statewide GIS map that would provide locational statistical data and data on elevation and rainfall. We also coordinated with Ben Nye, a GIS project staff from our island's National Tropical Botanical Garden. 
+Our research relied on maps from Kaua'i's Critical Habitat and the Hawaii Statewide GIS map that would provide locational statistical data and data on elevation and rainfall. We also coordinated with Ben Nyberg, a GIS project staff from our island's National Tropical Botanical Garden. 
 
 
 You can learn more on the introductory story map me and my project partner created a few years back [Kauai Endangered Plants](https://kapaahigh.maps.arcgis.com/apps/MapJournal/index.html?appid=4f38c31923f94adebb515efb916e8461).
