@@ -102,6 +102,21 @@
         "drone security"
       ]
     },
+    
+    {
+      "company": "Kaua'i BackCountry Adventures",
+      "position": "Mountain Guide",
+      "website": "",
+      "startDate": "2021-07-17",
+      "endDate": "Present",
+      "summary": "Mountain guide tubing adventures in an old sugar cane plantation irrigation ditch",
+      "highlights": [
+        "Outdoors",
+        "Water Activity", 
+        "People skills"
+      ]
+    },
+    
     {
       "company": "Network Engineer",
       "position": "Temporary Hire",
@@ -137,20 +152,7 @@
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    }
-  ],
+
   "references": [
     {
       "name": "Available upon request",
