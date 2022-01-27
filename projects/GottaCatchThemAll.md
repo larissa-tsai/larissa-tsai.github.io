@@ -13,7 +13,7 @@ labels:
 summary: A graphical user interface to display a pokemon game on a pokedex.
 ---
 
-<img class="ui large floated image" src="../images/Screenshot_20171128_151713.png">  <img class="ui large floated image" src="../images/pokedex.png">
+<img class="ui large floated image" src="../images/Screenshot_20171128_151713.png"> 
 
 
 If you've never heard of Pokemon, quick rundown is that it's a popular franchise that has multiple sucessful season tv series, and a game with a large fanbase, both virtually and physically (i.e. cards).
