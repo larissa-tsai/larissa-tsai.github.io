@@ -36,4 +36,6 @@ This here is an example of a [stupid question](https://stackoverflow.com/questio
 
 <img class="ui medium right floated rounded image" src="../images/seriously.png">
 
+### Do the Work!
+
 Provided both of these examples, we have an idea for what makes a smart question. If you want to read more, I really recommend [Raymond's essay](http://www.catb.org/esr/faqs/smart-questions.html). The internet is such a resourceful tool, but it should be used as such, and not as a cop-out for homework or wasting other's time. The pressure of procrastination and failure can lead to groveling and arrogant entitlement for a quick answer, and while such a "simple or dumb question" could easily be answered, it could also just as easily be researched and found on your own with a little bit of commitment to learning. In the world of software engineering, success is built for those who aren't too lazy to do their own work! It's okay to ask questions, but work through the struggle first. Ask the smart questions from the experts thats what they're there for, but first...Meet them Halfway!!
