@@ -9,7 +9,6 @@ labels:
   - Learning
 ---
 
-<img class="ui large floated rounded image" src="../images/stupid.jpg">
 
 ### I want it, and I want it now
 
@@ -26,6 +25,8 @@ Funny story, I once had a psychology teacher that used the previous phrase with 
 
 ### Acknowledging the Struggle
 So now you're probably wondering, "Larissa you've been going on for quite a bit about stupid people and stupid questions, so what does a smart question even look like then??" Good question! Some of the precepts to a smart question at the very least is an attempt to do some of your own research on the questions beforehand, try to find the answer elsewhere, as it might have already been posted. Then, if you haven't found anything about it, demonstrate or communicate what you *have* learned in your attempt to research it. It gives people a baseline for what you *do* know about it. Try to do some thinking on your own, and let it marinate before giving up and rushing to ask after a failed research attempt. And then this one seems like a no-brainer, but put some thought into your question! Think before you phrase it and do some research on any assumptions. before asking 
+
+<img class="ui medium left floated rounded image" src="../images/stupid.jpg">
 
 Here, I have an example of a [smart question.](https://stackoverflow.com/questions/10116961/can-you-explain-the-httpurlconnection-connection-process?noredirect=1&lq=1) This person thoroughly communicates their background on the subject and what they are trying to do, which is using HTTPURLConnection to connect a web service. Then they communicate the areas of struggle, which is understanding the logistical areas/points of connection in the server, all throughout communicating what they *do* know. Importantly, it's clear, it's concise, it's easy for others to reply to. In the questions where they phrased their area of struggle, it ends up showing that they *actually* know a decent amount about it already, did research beforehand, and shows their willingness to fully understanding it. The question title also pertains to the subject and isn't a desparate cry for help. If you look at some of the replies, because they  communicated so effectively their question and confusion, many people were willing write out a thorough reply and address their confusion in simple terms. 
 
