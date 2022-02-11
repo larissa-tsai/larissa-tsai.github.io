@@ -9,7 +9,7 @@ labels:
   - Learning
 ---
 
-<img class="ui large floated rounded image" src="https://miro.medium.com/max/1080/0*N9V4A5_pohxU8J2k.">
+<img class="ui medium floated rounded image" src="https://miro.medium.com/max/1080/0*N9V4A5_pohxU8J2k.">
 
 ### We're not learning Python anymore
 
