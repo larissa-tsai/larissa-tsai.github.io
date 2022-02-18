@@ -11,15 +11,25 @@ labels:
 ```
 
 “What do you want to do with your life?”
-                                                                                                         * I don’t know.*
+
+                                                                                                         *I don’t know.*
+                                                                                                         
 “Does it make money?”
-                                                                                                      * I think it will.*
+
+                                                                                                      *I think it will.*
+                                                                                                      
 “How are you going to get there?”
-                                                                                                         * I don’t know.*
+
+                                                                                                         *I don’t know.*
+                                                                                                         
 “What do you mean you don’t know? You should already have an idea by now.”
-                                                            * I kind of do, but I’m lost. I don’t know how to get there.*
+
+                                                            *I kind of do, but I’m lost. I don’t know how to get there.*
+                                                            
 “This is your future, why aren’t you taking it seriously?” 
-                                                                                                *I am. I am. I’m trying.*
+
+                                                                                               *I am. I am. I’m trying.*
+                                                                                               
 
 ```
 
