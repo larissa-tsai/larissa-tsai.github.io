@@ -45,9 +45,16 @@ Even after switching majors and deciding to pursue Computer Science, I’m still
 
 ### Try RadGrad
 
+<img class="ui large floated image" src="../essays/radgrad.png">
+
 Recently, I’ve tried RadGrad to help enrich my undergraduate experience, and was honestly so impressed how it centralized all the resources we needed in one place. It had personalized suggestions based on your interests in the computer science field. Based on those interests, I was able to find organized courses that aligned with my interests to build my academic plan, and even gave detailed resources to opportunities that I didn’t even know existed within UH, or the community. It was a great information outlet, not just for these programs, but for these students, who might not have known where to look or what to search. 
 
 I think what was interesting, about exploring the opportunities section, was all of the programs that you could join to improve your skills and experience. Especially since you could sort it by recommendation and the ones that align to your interests can be filtered towards the top, you can align it to career goals as well, or maybe even learn more about it. Some interesting ones I saw were ‘Cracking the Coding Interview,’ ‘AllNet,’ ‘Google Summer of Code,’ and etc. I think it just kind of opened a new world for me that I had an inkling existed, but finally confirmed and revealed. I felt like a toddler at a candy store, the world was at my fingertips. There were so many options. It kind of made my worries look smaller. It was reassuring to think, the world isn’t as limited as you think it is. Now I know where to look if I want to find more about Data Science, or if I want to learn more about Databases, Algorithms, Application Development…etc. Maybe I already know what I’m interested in building a career out of, and I want to know how to build my resume and experience for that, well now there’s a centralized platform to find opportunities that are tagged in that specific interest. 
+
+
+<img class="ui large floated image" src="../essays/career.png">
+<img class="ui large floated image" src="../essays/opportunity.png">
+
 
 ### Finding Security
 
