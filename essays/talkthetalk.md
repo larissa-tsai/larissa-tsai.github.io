@@ -21,7 +21,7 @@ But then on the side, I ended up taking a simple and easy IT course in python. I
 
 <img class="ui medium left floated rounded image" src="../essays/javascript.png">
 
-### Explorning the New World
+### Exploring the New World
 
 Something I look forward to is our "Workout of the Day" (WODs) where we utilize what we've learned in short coding exercises, that generally take at most 15 minutes to complete. The thing that first appealed to me about computer science was the sense of satisfaction coding gave me. It's like a puzzle, and it can be frustrating to solve if the answer doesn't seem straightforward, but it makes the satisfaction that much more lasting when you've struggled through to solve it. I typically like learning this way because rather than learning through a textbook or lecture, I can actively apply what I learn immediately and run through it multiple times as needed for my own personal practice!
 
