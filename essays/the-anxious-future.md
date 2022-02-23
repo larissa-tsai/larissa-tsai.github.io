@@ -12,23 +12,23 @@ labels:
 
 “What do you want to do with your life?”
 
-                                                                _I don’t know._
+                                                                I don’t know.
                                                                                                          
 “Does it make money?”
 
-                                                              _I think it will._
+                                                              I think it will.
                                                                                                       
 “How are you going to get there?”
 
-                                                                 _I don’t know._
+                                                                 I don’t know.
                                                                                                          
 “What do you mean you don’t know? You should already have an idea by now.”
 
-                     _I kind of do, but I’m lost. I don’t know how to get there._
+                     I kind of do, but I’m lost. I don’t know how to get there.
                                                             
 “This is your future, why aren’t you taking it seriously?” 
 
-                                                                    _I am. I am._
+                                                                    I am. I am.
                                                                                                
 
 
