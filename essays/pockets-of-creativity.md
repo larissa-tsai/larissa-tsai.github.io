@@ -24,13 +24,13 @@ I can't quite recall what I typed out that day for my response, maybe I did writ
 
 That's why moving into Semantic UI (User Interface) for my software engineering class is so exciting. Semantic UI is a development framework that helps create layouts using HTML. 
 
-<img class="ui medium floated image" src="..essays/browserhistory.png">
+<img class="ui medium image" src="../essays/browserhistory.png">
 
 In the example picture above, I have a website created using *purely* HTML. Not terrible, it's got three nice even columns and small pictures of the browser logos to brighten up the page, the background has a nice cute little ivory tone. But the real star is the next few pictures below. For this class I did a recreation of the Versace website using Semantic UI. Already, it's bright, it's colorful, it's eye-grabbing...like, 'wave your money in the air because I want to hire you as my web-designer "eye-grabbing"'...well, maybe, I still have a long way to go and more techniques to learn. But if you saw these two in a portfolio for candidates applying at your company, surely you'd choose the one below, right? 
 
 <div class="ui extra large images">
-  <img class="ui medium floated image" src="..essays/versace.png">
-  <img class="ui medium floated image" src="..essays/versace2.png">
+  <img class="ui medium image" src="../essays/versace.png">
+  <img class="ui medium image" src="../essays/versace2.png">
 </div>
 
 UI frameworks can be complicated to learn at first, but if you've read my essay on formatting with ESLint, [Familiarity in Formatting](https://larissa-tsai.github.io/essays/familiarity-in-formatting.html), stepping out of the comfort zones is how we learn and grow. How can I use this new tool to make my coding easier and better? More functional? There's a payoff in investing into technology and software, that payoff is functionality. Anything you try for the first time is not guaranteed to be easy(unless you're gifted or get beginners luck.) It's why we learn and practice.
