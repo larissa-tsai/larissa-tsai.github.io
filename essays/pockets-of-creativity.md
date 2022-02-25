@@ -36,8 +36,6 @@ I thought about "the before." I was really lost thinking about my future, and, i
   width: 33.33%;
   padding: 5px;
 }
-
-/* Clear floats after image containers */
 .row::after {
   content: "";
   clear: both;
