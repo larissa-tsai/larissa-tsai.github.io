@@ -19,6 +19,8 @@ Although simple, it's probably a question that you wouldn't often think about un
 I thought about "the before." I was really lost thinking about my future, and, if you've followed long enough to read through all my essays, you'd know that Computer Science wasn't actually my first choice. It took me a while before I reached where I am now. So, it was such a relief to me when I had finally decided on Computer Science. It was like the gears aligned and everything clicked in place, I took that feeling and I ran with it. The world was bright and glittery, and I ran as unabashedly as a little kid would: with no fear of scrapes or tumbling down (kind of terrifying). Then, as I sat there, forced to rethink my purpose and my passions, I asked myself, "Do I still align with these thoughts? Am I just sticking with this because I feel pressure to see this through? Is this still something I genuinely want to do?" If I really thought about it, the first thought that actually came to mind was "Art." But not in bright exclamations. The thought came soft, as a whisper, weak and easily dismissable. Kind of like the distant memories of your first love, shoved messily away into the back corners of your mind.
 
 <img class="ui small floated image" src="https://qph.fs.quoracdn.net/main-qimg-3dc30a8d891c2404ab9f5ed62437acaf-lq">
+<img class="ui small floated image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0PtKqvZcueL0ByiLCQPyLEcarQNZ73ls3IAp5jwYaUP1JvYejrHdHDRpkoBW8NUC2tN0&usqp=CAU">
+<img class="ui small floated image" src="https://miro.medium.com/max/500/1*Cavy9nCA0L5OjzNqIkZhug.jpeg">
 
 ### The American Dream
 
