@@ -65,3 +65,4 @@ To relate it more closely with something we've worked on recently, it's honestly
 
 Here's another saying to end it off, "You sow in tears before you reap in joy," meaning sometimes you just have to work through the struggle before you can relish the benefits. 
 
+<img class="ui large image" src="https://www.memecreator.org/static/images/memes/3811185.jpg">
