@@ -20,7 +20,7 @@ I thought about "the before." I was really lost thinking about my future, and, i
 
 <img class="ui small floated image" src="https://qph.fs.quoracdn.net/main-qimg-3dc30a8d891c2404ab9f5ed62437acaf-lq">
 <img class="ui small floated image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0PtKqvZcueL0ByiLCQPyLEcarQNZ73ls3IAp5jwYaUP1JvYejrHdHDRpkoBW8NUC2tN0&usqp=CAU">
-<img class="ui small floated image" src="https://miro.medium.com/max/500/1*Cavy9nCA0L5OjzNqIkZhug.jpeg">
+<img class="ui tiny floated image" src="https://miro.medium.com/max/500/1*Cavy9nCA0L5OjzNqIkZhug.jpeg">
 
 ### The American Dream
 
