@@ -24,11 +24,12 @@ I can't quite recall what I typed out that day for my response, maybe I did writ
 
 That's why moving into Semantic UI (User Interface) for my software engineering class is so exciting. Semantic UI is a development framework that helps to create layouts using HTML. In the example picture below, I have a website created using *just* HTML. 
 
-<img class="ui medium centered floated image" src="..essays/browserhistory.png">
+<img class="ui medium floated image" src="..essays/browserhistory.png">
 
 Not terrible, it's got three nice columns and small pictures to brighten up the page, the background has a cute little ivory tone. But these next few pictures below is a recreation of the Versace website using Semantic UI. Already it's bright, it's colorful, it's eye-grabbing, it's 'wave your money in the air because I want to hire you as my web-designer "eye-grabbing"'.
 
-<img class="ui medium centered floated image" src="..essays/versace.png"><img class="ui medium centered floated image" src="..essays/versace1.png">
+<img class="ui medium floated image" src="..essays/versace.png">
+<img class="ui medium floated image" src="..essays/versace2.png">
 
 
 
