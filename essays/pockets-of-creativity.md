@@ -63,6 +63,6 @@ I used to have one mentor that would repeat this to me often, "Work SMARTER! not
 
 To relate it more closely with something we've worked on recently, it's honestly like working with the Underscore library for Javascript. A bit foreign, kind of confusing when you don't know what does what, but as you practice and familiarize yourself with the functions, you get quicker at recognizing what you need to utilize and where to implement it to get the job done. Coding in raw HTML made struggling through Semantic UI a breeze. And it gave me the creative freedom to design layouts and be inspired by other artists. 
 
-Here's another saying to end it off, "You sow in tears before you reap in joy," meaning sometimes you just have to work through the struggle before you can relish the benefits. 
+Here's another saying to end it off, "You sow in tears before you reap in joy," meaning sometimes you just have to work through the struggle before you the hard work pays. 
 
 <img class="ui large image" src="https://www.memecreator.org/static/images/memes/3811185.jpg">
