@@ -31,6 +31,7 @@ How do I produce the cookie that I want and be confident in replicating it? This
 
 Now I have a starting point. One of the first things we've learned is Classes and Objects and how to make a chocolate chip cookie. How do I take this information and create my own thing? A shortbread cookie, although different in taste and color, but same in the sense that it's just another cookie, I can still take what I know from the process of making a chocolate chip cookie to make my shortbread one. Throughout my software engineering class, we've learned modules of different topics and set off to replicate them ourselves in a different setting. I can use these different design patterns in my code to provide a base and foundation to build off of. For example when I want to instantiate something, I can use a Prototype Design Pattern to build an instance over another instance. What do all cookies need? What is the process for each cookie?
 
+Without Design Patterns, starting from scratch would be very tedious, we'd leave so much room for trials and errors and wounds from head banging against walls from frustration trying to figure out the right ratio to making a cookie. Use the design patterns and solve that issue! But use it as a launchpad to guide you into adjusting the perfect cookie for YOUR tastes.
 
 
 
