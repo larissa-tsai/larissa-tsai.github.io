@@ -12,7 +12,7 @@ labels:
   - Meteor
   - MongoDB
   - React Js
-summary: 
+summary: The Company Connector web application Job Match'UH provides a new way for local and non-local companies who want to recruit students from UH to make their (potential) opportunities known to students.
 ---
 
 <div class="ui extra large images">
