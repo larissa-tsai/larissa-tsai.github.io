@@ -55,7 +55,9 @@ In working on a project, I learned that not everything goes smoothly from A to B
 ### To see how we made this project come to life:
 
 Our deployed web application can be found here: [https://jobmatchuh.xyz/#/](https://jobmatchuh.xyz/#/).
+
 More details behind the process of our project can be found in our project homepage here:[https://job-match-uh.github.io/](https://job-match-uh.github.io/).
+
 And the source code can be found here: [https://github.com/Job-Match-UH/source](https://github.com/Job-Match-UH/source).
 
 
