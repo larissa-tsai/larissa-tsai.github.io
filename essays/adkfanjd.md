@@ -21,12 +21,12 @@ More than just "creating apps," Software Engineers deal with designing, developm
 
 In the big picture and scope behind just "creating apps" there are also concepts of Open Source Software Development, Configuration Management, Functional Programming, Development Environments, Coding Standards (Which I briefly discussed the importance of in a previous post), User Interface Frameworks, Agile Project Management, and Design Patterns... etc and many others. While previously I had considered going down a more security focused route of Computer Science, I find software development much more enjoyable. 
 
-<img class="ui small floated image" src="../images/softwareengineering.png">
+<img class="ui small floated image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg2QNWZkbDAxCwpjCWLWm8OmrYGg87GQIWV2Kjtvl7zHZX4z4rONA7ntG3jYgglXoEJ5w&usqp=CAU">
 
 
 ### Rome was not built in a Day
 
-<img class="ui small floated image" src="../images/projectmanagement.png">
+<img class="ui small floated image" src="https://kanbanize.com/wp-content/uploads/website-images/Agile/Agility-attributes.png">
 Although it would take longer, I'm sure there are some people who would consider it easier to just work on a project by yourself. You don't have to go through the trouble of communicating with others and arguing about being on the same page, and waiting on people to do their part so you can do yours...etc, and I'm sure at one point in our lives, we've all had an experience with bad team members that just made us *hate* group work. But working in a team is kind of unavoidable as a software engineer. 
 
 In concluding this class, I, and a team of four other students, created a software application to match students to local companies called Job Match'UH (more information can be found under my Portfolio Project's tab). It was an extensive project that exercised many of the concepts of software engineering, but most importantly could not be completed without exercising concepts of Agile Project Management. I've worked on many group projects before in many different classes, but in working on this final project, this class made me redefine what it really means to work with others in a software engineering setting (that I will most definitely use to apply in other settings as well). Agile Project Management is a complex, contextual way of managing a project. Specifically, I used a style called Issue Driven Project Management. 
