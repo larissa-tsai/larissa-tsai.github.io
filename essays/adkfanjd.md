@@ -21,7 +21,7 @@ More than just "creating apps," Software Engineers deal with designing, developm
 
 In the big picture and scope behind just "creating apps" there are also concepts of Open Source Software Development, Configuration Management, Functional Programming, Development Environments, Coding Standards (Which I briefly discussed the importance of in a previous post), User Interface Frameworks, Agile Project Management, and Design Patterns... etc and many others. While previously I had considered going down a more security focused route of Computer Science, I find software development much more enjoyable. 
 
-<img class="ui small floated image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg2QNWZkbDAxCwpjCWLWm8OmrYGg87GQIWV2Kjtvl7zHZX4z4rONA7ntG3jYgglXoEJ5w&usqp=CAU">
+<img class="ui large floated image" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg2QNWZkbDAxCwpjCWLWm8OmrYGg87GQIWV2Kjtvl7zHZX4z4rONA7ntG3jYgglXoEJ5w&usqp=CAU">
 
 
 ### Rome was not built in a Day
