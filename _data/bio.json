@@ -6,7 +6,7 @@
     "email": "tsail@hawaii.edu",
     "phone": "808-631-0768",
     "website": "https://larissa-tsai.github.io/",
-    "summary": "Aspiring software professional with strong technical skills and a detail-oriented mindset. Thrives in fast-paced environments, collaborates effectively, and seeks to make a meaningful impact in the software industry. Eager to learn and grow, both personally and professionally.",
+    "summary": "Aspiring software professional with strong technical skills and a detail-oriented mindset. Eager to learn and grow, both personally and professionally.",
     "location": {
       "address": "",
       "postalCode": "96822",
@@ -79,7 +79,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2024)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2020-01-13",
       "endDate": "Present",
